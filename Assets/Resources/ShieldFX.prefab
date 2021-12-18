@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2845885376579494589
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5521217215589637153}
+  - component: {fileID: 3105951512163281718}
+  m_Layer: 0
+  m_Name: ShieldFX
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5521217215589637153
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2845885376579494589}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3105951512163281718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2845885376579494589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_LightType: 1
+  m_BlendStyleIndex: 0
+  m_FalloffIntensity: 0.108
+  m_Color: {r: 0.16810608, g: 0.2901961, b: 1, a: 1}
+  m_Intensity: 1.5
+  m_LightVolumeOpacity: 0
+  m_ApplyToSortingLayers: 00000000
+  m_LightCookieSprite: {fileID: 0}
+  m_UseNormalMap: 1
+  m_LightOrder: 0
+  m_AlphaBlendOnOverlap: 0
+  m_ShadowIntensity: 0
+  m_ShadowVolumeIntensity: 0
+  m_PointLightInnerAngle: 360
+  m_PointLightOuterAngle: 360
+  m_PointLightInnerRadius: 0
+  m_PointLightOuterRadius: 1
+  m_PointLightDistance: 3
+  m_PointLightQuality: 1
+  m_ShapeLightParametricSides: 5
+  m_ShapeLightParametricAngleOffset: 0
+  m_ShapeLightParametricRadius: 1
+  m_ShapeLightFalloffSize: 0.15
+  m_ShapeLightFalloffOffset: {x: 0, y: 0}
+  m_ShapePath:
+  - {x: -0.6751063, y: -0.04153967, z: 0}
+  - {x: -0.6819769, y: -0.15927076, z: 0}
+  - {x: -0.6628744, y: -0.2707019, z: 0}
+  - {x: -0.63420033, y: -0.38213062, z: 0}
+  - {x: -0.53550404, y: -0.5667882, z: 0}
+  - {x: -0.6055669, y: -0.3757658, z: 0}
+  - {x: -0.62146527, y: -0.26433182, z: 0}
+  - {x: -0.6214857, y: -0.15290308, z: 0}
+  - {x: -0.61191404, y: -0.03191805, z: 0}
+  - {x: -0.5609944, y: 0.114531994, z: 0}
+  - {x: -0.46548188, y: 0.2514329, z: 0}
+  - {x: -0.33176434, y: 0.3564973, z: 0}
+  - {x: -0.19804676, y: 0.4201722, z: 0}
+  - {x: -0.05159422, y: 0.45519352, z: 0}
+  - {x: 0.09485833, y: 0.4392748, z: 0}
+  - {x: 0.24131091, y: 0.41062117, z: 0}
+  - {x: 0.4291522, y: 0.29600573, z: 0}
+  - {x: 0.5533185, y: 0.13045073, z: 0}
+  - {x: 0.6265448, y: -0.05420685, z: 0}
+  - {x: 0.6265448, y: -0.21976185, z: 0}
+  - {x: 0.55412376, y: -0.5350213, z: 0}
+  - {x: 0.6719225, y: -0.2258954, z: 0}
+  - {x: 0.674301, y: -0.044655323, z: 0}
+  - {x: 0.6233814, y: 0.14637232, z: 0}
+  - {x: 0.46737754, y: 0.36286688, z: 0}
+  - {x: 0.29543465, y: 0.47747946, z: 0}
+  - {x: 0.104429975, y: 0.5379734, z: 0}
+  - {x: -0.06432922, y: 0.54115486, z: 0}
+  - {x: -0.22031265, y: 0.50932026, z: 0}
+  - {x: -0.36996937, y: 0.4392748, z: 0}
+  - {x: -0.4654615, y: 0.37560225, z: 0}
+  - {x: -0.5604913, y: 0.2644024, z: 0}
+  - {x: -0.62466943, y: 0.13681841, z: 0}
